@@ -1,7 +1,6 @@
 # Write your solution here
 
-time_now = true 
-puts "Even!"
+time_now = Time.now 
 
 if time_now
   puts "Even!"
